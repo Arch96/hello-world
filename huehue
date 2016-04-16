@@ -3,6 +3,6 @@ Nothing yet. :)
 
 void main()
 {
-  cout<<"Hello World";
+  cout<<"Hello World. Hello GitHub. ";
   return 0;
 }
